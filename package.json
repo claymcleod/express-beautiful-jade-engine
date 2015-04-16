@@ -1,0 +1,30 @@
+{
+  "name": "express-beautiful-jade-engine",
+  "version": "0.0.1",
+  "description": "A replacement engine for Jade that beautifies the HTML output",
+  "main": "express-beautiful-jade-engine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/claymcleod/express-beautiful-jade-engine.git"
+  },
+  "keywords": [
+    "express",
+    "jade",
+    "beautify",
+    "beautiful",
+    "engine"
+  ],
+  "author": "Clay McLeod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claymcleod/express-beautiful-jade-engine/issues"
+  },
+  "homepage": "https://github.com/claymcleod/express-beautiful-jade-engine",
+  "dependencies": {
+    "jade": "^1.9.2",
+    "js-beautify": "^1.5.5"
+  }
+}
