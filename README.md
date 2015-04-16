@@ -14,6 +14,9 @@ Usage
 -------------
 
 ``` 
+// Overwrite the default Jade engine with this one
 app.engine('jade', require('express-beautiful-jade-engine'));
+
+// Set the default view engine to the EBJE
 app.set('view engine', 'jade');
 ```
