@@ -1,6 +1,6 @@
 {
   "name": "express-beautiful-jade-engine",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A replacement engine for Jade that beautifies the HTML output",
   "main": "express-beautiful-jade-engine.js",
   "scripts": {
